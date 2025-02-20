@@ -48,7 +48,7 @@ Contributions are welcome! If you have suggestions for new features, improvement
 
 ## **License**
 
-Hecto is licensed under the MIT License. See the LICENSE file for more details.
+Hecto is licensed under the GNU GENERAL PUBLIC LICENSE. See the LICENSE file for more details.
 
 ## **Acknowledgments**
 
